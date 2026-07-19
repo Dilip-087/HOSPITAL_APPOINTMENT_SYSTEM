@@ -1,3 +1,3 @@
 print("Hospital Appointment Booking System")
 print("Patient Registration Module")
-print("Login Module")
+print("Doctor Login Module")
